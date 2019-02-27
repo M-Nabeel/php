@@ -1,0 +1,29 @@
+.top_bar{background:#3498DB;}
+.social_icon{margin-right:5px;}
+.contact_info{color:white;}
+.my_menu{margin-top:40px;}
+.active{background:#3498DB; }
+.a{
+	color:#3498DB;
+	font-size:20px;
+	
+}
+.a:hover{background:#3498DB; color:white; text-decoration:none; }
+.s{
+	color:white;
+	font-size:20px;
+	
+}
+.s:hover{background:#3498DB; color:white; text-decoration:none; }
+.img{
+	float:left;
+}
+.slider{
+
+}
+.in{
+	text-align:center;
+}
+.1-s{
+	background-color:black;
+}
